@@ -17,22 +17,22 @@ Authorized price: Js native edition is <b>￥4,700RMB/product</b> ，Vue/React e
 More details are subject to the official website:：[https://gooflow.xyz](https://gooflow.xyz)
 
 ## features ##
-* 跨领域:流程图设计器不止用在电信领域,在其它需要IT进行技术支持的领域中都有重大作用.
-* 页面顶部栏、左边侧边栏均可自定义；
-* 当左边的侧边栏设为不显示时，为只读状态，此时的视图区可当作是一个查看器而非编辑器。
-* 当前最新版本已全部使用自定义的阿里巴巴矢量图标库，可不再需要一张用来显示图标样式的图片。
-* 侧边工具栏除了基本和一些流程节点按钮外，还自定义新的节点按钮，自定义节点都可以有自有的图标、类型名称，定义后在使用可可在工作区内增加这些自定义节点。
-* 顶部栏可显示流程图数据组的标题，也可提供一些常用操作按钮。
-* 顶部栏的按钮，除了撤销、重做按钮外，其余按钮均可自定义点击事件。
-* 可画直线、折线；折线还可以左右/上下移动其中段。
-* 具有区域划分功能，能让用户更直观地了解哪些节点及其相互间的转换，是属于何种自定义区域内的。
-* 具有标注功能，用橙红色标注某个结点或者转换线，一般用在展示流程进度时。
-* 能直接双击结点、连线、分组区域中的文字进行编辑
-* 在对结点、连线、分组区域的各种编辑操作，如新增/删除/修改名称/重设样式或大小/移动/标注时，均可捕捉到事件，并触发自定义事件，如果自定义事件执行的方法返回FALSE，则会阻止操作。
-* 具有操作事务序列控制功能，在工作区内的各种有效操作都能记录到一个栈中，然后可以进行撤销（undo()）或重做（redo()），像典型的C/S软件一样。
-* 能将流程图以png图片的格式导出并下载（纯JS实现，但不支持IE9及以下浏览器）
+* Cross-domain: The flowchart designer is not only used in the telecommunications field, but also plays a major role in other areas where IT is required for technical support.
+* The top bar and left side bar of the page can be customized;
+* When the left sidebar is set to not display, it is read-only, and the view area at this time can be regarded as a viewer instead of an editor.
+* The latest version of the Alibaba vector icon library has been used in the latest version, eliminating the need for an image to display the icon style.
+* In addition to the basic and some process node buttons, the side toolbar also customizes the new node button. The custom node can have its own icon and type name. After defining it, use Cocoa to add these custom nodes in the workspace.
+* The top bar shows the title of the flowchart data set, as well as some common action buttons.
+* The buttons in the top bar, in addition to the undo and redo buttons, can customize the click event.
+* You can draw straight lines and fold lines; the fold lines can also move the left and right/up and down segments.
+* It has a zoning function that allows users to more intuitively understand which nodes and their transitions are within the custom zone.
+* With the annotation function, a node or transition line is marked in orange red, which is generally used to show the progress of the process.
+* Can directly double-click the text in the node, connection, grouping area for editing
+* In various editing operations on nodes, connections, and grouping areas, such as adding/deleting/modifying names/resetting styles or size/moving/labeling, you can capture events and trigger custom events if The method that defines the execution of the event returns FALSE, which blocks the operation.
+* With operational transaction sequence control, various valid operations in the workspace can be recorded on a stack and then undo () or redo (redo), as with typical C/S software.
+* Can export and download the flowchart in png image format (pure JS implementation, but does not support IE9 and below)
 
-![Preview Image](https://git.oschina.net/uploads/images/2017/0531/145320_f0bb8c2c_472359.png "效果预览图")
+![Preview Image](https://git.oschina.net/uploads/images/2017/0531/145320_f0bb8c2c_472359.png "Preview Image")
 <br><br>
 
 ## Detail usage: ##
