@@ -46,6 +46,7 @@ More details are subject to the official website:：[https://gooflow.xyz](https:
 * React edition of the show: [click to enter](https://gooflow.gitee.io/react/)<br>
 
 *Updated History :**
+- **1.4 for Lasttest :** <br> The GooFlow of Vue3.x Edition is ready!
 - **1.4 for All :** <br> Fixed some bugs, optimizing directory structure; Optimize the operation experience. When moving a swimming lane, you can set whether the nodes/lines in the lane follow the movement.
 - **1.4, 1.2 for Vue/React :** <br> Important update! The polyline can support 5 polyline segments; optimize multi-selection operation experience, remove single/multiple selection switching; optimize node drag operation experience.
 - **1.3.12 :** <br> Important update! Getting rid of the dependency on Jquery and removing the Ajax method implemented through Jquery, IE8 is no longer supported.
